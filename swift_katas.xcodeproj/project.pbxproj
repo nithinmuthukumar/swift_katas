@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D207B9422DE536A002CD9C2 /* DWITE'09R1#5RunningInCircles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D207B9322DE536A002CD9C2 /* DWITE'09R1#5RunningInCircles.swift */; };
+		8D207B9622DE557C002CD9C2 /* HighTideLowTide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D207B9522DE557C002CD9C2 /* HighTideLowTide.swift */; };
+		8D207B9B22DE6035002CD9C2 /* Queue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D207B9A22DE6035002CD9C2 /* Queue.swift */; };
 		8D9E3E9822DD1F2F00534C73 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D9E3E9722DD1F2F00534C73 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +26,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8D207B9322DE536A002CD9C2 /* DWITE'09R1#5RunningInCircles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DWITE'09R1#5RunningInCircles.swift"; sourceTree = "<group>"; };
+		8D207B9522DE557C002CD9C2 /* HighTideLowTide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HighTideLowTide.swift; sourceTree = "<group>"; };
+		8D207B9A22DE6035002CD9C2 /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
 		8D9E3E9422DD1F2F00534C73 /* swift_katas */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = swift_katas; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D9E3E9722DD1F2F00534C73 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				8D9E3E9722DD1F2F00534C73 /* main.swift */,
+				8D207B9322DE536A002CD9C2 /* DWITE'09R1#5RunningInCircles.swift */,
+				8D207B9522DE557C002CD9C2 /* HighTideLowTide.swift */,
+				8D207B9A22DE6035002CD9C2 /* Queue.swift */,
 			);
 			path = swift_katas;
 			sourceTree = "<group>";
@@ -119,7 +128,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8D207B9622DE557C002CD9C2 /* HighTideLowTide.swift in Sources */,
+				8D207B9422DE536A002CD9C2 /* DWITE'09R1#5RunningInCircles.swift in Sources */,
 				8D9E3E9822DD1F2F00534C73 /* main.swift in Sources */,
+				8D207B9B22DE6035002CD9C2 /* Queue.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
