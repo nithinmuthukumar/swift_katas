@@ -11,6 +11,7 @@
 		8D207B9622DE557C002CD9C2 /* HighTideLowTide.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D207B9522DE557C002CD9C2 /* HighTideLowTide.swift */; };
 		8D207B9B22DE6035002CD9C2 /* Queue.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D207B9A22DE6035002CD9C2 /* Queue.swift */; };
 		8D9E3E9822DD1F2F00534C73 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D9E3E9722DD1F2F00534C73 /* main.swift */; };
+		8DA8B88F22DF8AB400A916D2 /* Rectangle into Squares.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8DA8B88E22DF8AB400A916D2 /* Rectangle into Squares.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		8D207B9A22DE6035002CD9C2 /* Queue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Queue.swift; sourceTree = "<group>"; };
 		8D9E3E9422DD1F2F00534C73 /* swift_katas */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = swift_katas; sourceTree = BUILT_PRODUCTS_DIR; };
 		8D9E3E9722DD1F2F00534C73 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		8DA8B88E22DF8AB400A916D2 /* Rectangle into Squares.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Rectangle into Squares.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				8D207B9322DE536A002CD9C2 /* DWITE'09R1#5RunningInCircles.swift */,
 				8D207B9522DE557C002CD9C2 /* HighTideLowTide.swift */,
 				8D207B9A22DE6035002CD9C2 /* Queue.swift */,
+				8DA8B88E22DF8AB400A916D2 /* Rectangle into Squares.swift */,
 			);
 			path = swift_katas;
 			sourceTree = "<group>";
@@ -130,6 +133,7 @@
 			files = (
 				8D207B9622DE557C002CD9C2 /* HighTideLowTide.swift in Sources */,
 				8D207B9422DE536A002CD9C2 /* DWITE'09R1#5RunningInCircles.swift in Sources */,
+				8DA8B88F22DF8AB400A916D2 /* Rectangle into Squares.swift in Sources */,
 				8D9E3E9822DD1F2F00534C73 /* main.swift in Sources */,
 				8D207B9B22DE6035002CD9C2 /* Queue.swift in Sources */,
 			);

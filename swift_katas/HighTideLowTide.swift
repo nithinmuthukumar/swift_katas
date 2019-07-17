@@ -8,7 +8,7 @@
 
 import Foundation
 func highTideLowTide(){
-    readLine()
+    //readLine()
     var tides=readLine()!.components(separatedBy: " ").map {Int($0)!}.sorted()
     var s=[String]()
     while tides.count>0{
