@@ -8,7 +8,7 @@
 
 import Foundation
 //highTideLowTide()
-print(sqInRect(20,14) ?? "why")
+part(6)
 
 
 
